@@ -1,0 +1,10 @@
+po_number,vendor_id,description,amount_net,currency,status,created_date
+PO-4501,V001,Corrugated shipping boxes (3 sizes),240000,INR,open,2026-09-02
+PO-4502,V004,Q4 outbound freight - Hyderabad to Pune lane,1000000,INR,open,2026-08-20
+PO-4503,V002,Cloud hosting - annual (billed monthly),360000,INR,open,2026-04-01
+PO-4504,V003,Ergonomic office chairs x 25,185000,INR,open,2026-09-18
+PO-4505,V003,Office stationery - annual contract,48000,INR,open,2026-10-05
+PO-4507,V001,Wooden pallets (heat treated) x 150,75000,INR,open,2026-10-12
+PO-4490,V004,Q3 outbound freight,800000,INR,closed,2026-05-10
+PO-4508,V006,Business laptops x 2 (IT refresh),120000,INR,open,2026-10-15
+PO-4509,V006,Wireless keyboard and mouse combos for new joiners,42000,INR,open,2026-10-20

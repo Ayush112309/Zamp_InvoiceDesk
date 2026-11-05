@@ -1,0 +1,13 @@
+{
+  "currency": "INR",
+  "tolerance_pct": 2.0,
+  "tolerance_abs": 5000,
+  "auto_approve_limit": 1000000,
+  "duplicate_window_days": 120,
+  "duplicate_similarity_threshold": 0.85,
+  "po_inference_min_confidence": 0.8,
+  "arithmetic_tolerance": 1.0,
+  "future_date_grace_days": 3,
+  "max_invoice_age_days": 365,
+  "required_fields": ["vendor_name", "invoice_number", "invoice_date", "total"]
+}

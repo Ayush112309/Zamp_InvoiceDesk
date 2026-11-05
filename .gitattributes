@@ -1,0 +1,5 @@
+* text=auto
+*.pdf binary
+*.png binary
+*.db binary
+Dockerfile text eol=lf

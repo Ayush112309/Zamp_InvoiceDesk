@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: invoice-desk
+    runtime: docker
+    plan: free
+    envVars:
+      - key: LLM_BASE_URL
+        value: https://api.groq.com/openai/v1
+      - key: LLM_MODEL
+        value: qwen/qwen3.8-27b
+      - key: LLM_API_KEY
+        sync: false
